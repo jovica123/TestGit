@@ -1,4 +1,4 @@
 This is my first text file
 A mozda i nije
 Text je strava
-
+...............
